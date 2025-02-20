@@ -1105,13 +1105,13 @@ box-shadow: 0 0 10px gray;
   background: linear-gradient(#fff, #fff);
  font-family: 'Black Han Sans', sans-serif;
   font-size: 15px;
-  color:#c6aa81;
+  color:#d1b644;
   height: 45px;
   border-top: 2px solid #c6aa81;
   border-bottom: 2px solid #c6aa81;
   border-right: 2px solid #c6aa81;
   border-left: 2px solid #c6aa81;
-  border-color: #c6aa81;
+  border-color: #d1b644;
 }
 .btnComoLlegar2{
   letter-spacing: 3px;
@@ -1129,16 +1129,16 @@ box-shadow: 0 0 10px gray;
 
 .btnComoLlegar2:hover{
   text-decoration: none;
- background: linear-gradient(#fff, #fff);
-  font-family: 'Arapey', serif; 
+  background-color: transparent;
+ font-family: 'Black Han Sans', sans-serif;
   font-size: 15px;
-  color:#c6aa81;
+  color:#d1b644;
   height: 45px;
   border-top: 2px solid #c6aa81;
   border-bottom: 2px solid #c6aa81;
   border-right: 2px solid #c6aa81;
   border-left: 2px solid #c6aa81;
-  border-color: #c6aa81;
+  border-color: #d1b644;
 }
 @media only screen and (max-width: 380px) and (min-width: 320px)  {
   .btn{
@@ -1211,13 +1211,13 @@ box-shadow: 0 0 10px gray;
 
 .btnWhatsNovios:hover{
   text-decoration:none;
-  background: linear-gradient(#fff, #fff);
-  color: #6e8578;
-    border-top: 2px solid #6e8578;
-  border-bottom: 2px solid #6e8578;
-  border-right: 2px solid #6e8578;
-  border-left: 2px solid #6e8578;
-  border-color: #6e8578;
+  background: linear-gradient(#d1b644, #d1b644);
+  color: #fff;
+    border-top: 5px solid ;
+  border-bottom: 5px solid ;
+  border-right: 5px solid ;
+  border-left: 5px solid ;
+  border-color: #fff;
  
 }
 
